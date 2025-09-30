@@ -1,6 +1,14 @@
-local menu = gg.choice({'FindAddress/RVA',' Exit',' '},nil,'My GitHub Sky-Stars-Yaxcess My YouTube Channel Star_Space_Galaxy My 2 YouTube Channel Star_Space_Local_Yaxcess')
+local menu = gg.choice({'Find Address RVA',' Exit',' '},nil,'Find Address RVA)
 
---Main code Protected by the GNU General Public License v3.0(GPL.3.0)
+--main code Protected copyright violation (c) 2025 :GutHub Sky-Stars-Air-Yaxcess :YouTube  my main channel Star_Space_Galaxy my second channel Star_Space_Local_Yaxcess my third channel Star_Y_1_Pro
+
+-- Copyright (c) 2025 :GutHub Sky-Stars-Air-Yaxcess :YouTube my main channel Star_Space_Galaxy my second channel Star_Space_Local_Yaxcess my third channel Star_Y_1_Pro License GNU General Public License v3.0 (GPL-3.0) Do not remove this header. All rights reserved under GNU General Public License v3.0 (GPL-3.0) and Copyright violation (c) 2025 Sky-Stars-Air-Yaxcess my main channel Star_Space_Galaxy my second channel Star_Space_Local_Yaxcess my third channel Star_Y_1_Pro
+
+-- My contact information: Gmail email address. y8068723@gmail.com
+
+-- This script was created for educational purposes only. Users are solely responsible for how they use it. We respect developers and urge them to fix vulnerabilities. Our goal is not to cause harm, but to promote fair and secure gameplay!
+
+-- the clowns I have never stolen anything from anyone. If you see something similar, it means either someone actually stole from me, or it is a coincidence that it looks alike. It's also possible that we use the same work logic and code, which does not mean I have stolen anything.
 
 function FindAddress(a, b)
 gg.setVisible(true)
@@ -14,7 +22,7 @@ end
 if c == 0 then
 return nil
 end
-gg.searchAddress(string.format("%X", c), -1, gg.TYPE_AUTO)
+gg.searchAddress(string.format("%X", c), -1, gg.TYPE_AUTO) -- Found Address/RVA
 print(string.format("Found address 0x%X", c)) --Found Address/RVA
 return c
 end
